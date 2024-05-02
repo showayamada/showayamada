@@ -1,3 +1,3 @@
 ### Hi there 👋
-<img alt="mygithub" src="header.svg" width="98.2%" height="100%">
+<img alt="svg" src="header.svg" width="98.2%" height="100%">
 
